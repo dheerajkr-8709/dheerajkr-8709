@@ -14,6 +14,9 @@
 <a href="https://leetcode.com/u/dheerajroy3030/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
 </a>
+  <a href="https://www.codechef.com/users/dheerajroy3030" target="blank">
+<img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/logo.svg" alt="CodeChef" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
